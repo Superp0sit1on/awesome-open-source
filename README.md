@@ -31,7 +31,7 @@ Here you can find a curated list of all the best free and open-source software f
 - [Ardour](https://ardour.org) - Comprehensive digital audio workstation for professional use.
 - [Audacity](https://www.audacityteam.org) - The most famous digital audio editor.
 - [Cider](https://cider.sh/) - Multi-platform and beautifully crafted Apple Music interface.
-- [Rhythmbox](https://www.rhythmbox.org) - The traditional audio player from GNOME and community.
+- [Rhythmbox](https://www.rhythmbox.org) - The traditional audio player from GNOME and the community.
 
 # Development 💻
 
