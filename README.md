@@ -14,15 +14,15 @@ Here you can find a curated list of all the best free and open-source software f
 
 # Summary 📋
 
-- [Audio 🎧](#-audio)
-- [Web Browsing 🌐](#-web-browsing)
-- [Development 💻](#-development)
-- [Game Development 🎮](#-game-development)
-- [Graphics 🖼️](#-graphics)
-- [Operational Systems 🖥️](#-operational-systems)
-- [Productivity 📎](#-productivity)
-- [Social networks 💬](#-social-networks)
-- [Video 🎥](#-video)
+- [Audio 🎧](https://github.com/Superp0sit1on/awesome-open-source?tab=readme-ov-file#audio-)
+- [Development 💻](https://github.com/Superp0sit1on/awesome-open-source?tab=readme-ov-file#development-)
+- [Game Development 🎮](https://github.com/Superp0sit1on/awesome-open-source?tab=readme-ov-file#game-development-)
+- [Graphics 🖼️](https://github.com/Superp0sit1on/awesome-open-source?tab=readme-ov-file#graphics-%EF%B8%8F)
+- [Operational Systems 🖥️](https://github.com/Superp0sit1on/awesome-open-source?tab=readme-ov-file#operational-systems-%EF%B8%8F)
+- [Productivity 📎](https://github.com/Superp0sit1on/awesome-open-source?tab=readme-ov-file#productivity-)
+- [Social networks 💬](https://github.com/Superp0sit1on/awesome-open-source?tab=readme-ov-file#social-networks-)
+- [Video 🎥](https://github.com/Superp0sit1on/awesome-open-source?tab=readme-ov-file#video-)
+- [Web Browsing 🌐](https://github.com/Superp0sit1on/awesome-open-source?tab=readme-ov-file#web-browsing-)
 
 ---
 
@@ -32,11 +32,6 @@ Here you can find a curated list of all the best free and open-source software f
 - [Audacity](https://www.audacityteam.org) - The most famous digital audio editor.
 - [Cider](https://cider.sh/) - Multi-platform and beautifully crafted Apple Music interface.
 - [Rhythmbox](https://www.rhythmbox.org) - The traditional audio player from GNOME and community.
-
-# Web Browsing 🌐
-
-- [Firefox](https://www.mozilla.org/firefox/new) - Simply one of the most used browsers ever!
-- [ungoogled-chromium](https://ungoogled-software.github.io) - Chromium (Chrome) without any Google telemetry and possibly annoying stuff.
 
 # Development 💻
 
@@ -108,6 +103,11 @@ Here you can find a curated list of all the best free and open-source software f
 - [Owncast](https://owncast.online) - Self-hosted live streaming platform.
 - [PeerTube](https://joinpeertube.org) - Decentralized video-hosting platform. 
 - [VLC](https://www.videolan.org) - Traditional and comprehensive player.
+
+# Web Browsing 🌐
+
+- [Firefox](https://www.mozilla.org/firefox/new) - Simply one of the most used browsers ever!
+- [ungoogled-chromium](https://ungoogled-software.github.io) - Chromium (Chrome) without any Google telemetry and possibly annoying stuff.
 
 ---
 
